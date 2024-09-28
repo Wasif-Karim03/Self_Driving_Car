@@ -1,3 +1,5 @@
+#Learning process: Control servo using Python scripts (Jetson nano)
+
 import Jetson.GPIO as GPIO
 import time
 
